@@ -5,6 +5,8 @@ import time
 import threading
 import math
 
+
+
 # Base class for all pets
 class Pet:
     def __init__(self, name, species):
